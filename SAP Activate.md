@@ -1,5 +1,5 @@
 
-# SAP Activate Methodology: A Comprehensive Guide (Latest Version)
+# SAP Activate Methodology: A Comprehensive Guide - 202502
 
 ## Introduction to SAP Activate
 
